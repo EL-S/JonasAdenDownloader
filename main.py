@@ -55,3 +55,5 @@ print(f"Downloading {len(downloads)} sample packs.")
 
 for download in downloads:
     download_sample(download)
+
+print("Done.")
